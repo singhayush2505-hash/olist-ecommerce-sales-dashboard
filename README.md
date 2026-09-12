@@ -48,9 +48,9 @@ The dashboard provides insights into revenue, orders, customers, product categor
 
 ## 📂 Project Files
 
-- `Olist.pbix` — Power BI dashboard file
-- `Dashboard.png` — Dashboard preview
-- `README.md` — Project documentation
+- 📊 [View / Download Power BI Dashboard](https://drive.google.com/file/d/1uQtG03n_Fif3VfQVRnRD-pIMNeylZRK_/view?usp=sharing)
+- 🖼️ `Dashboard.png` — Dashboard preview
+- 📄 `README.md` — Project documentation
 
 ## 🎯 Objective
 
